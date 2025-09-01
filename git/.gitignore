@@ -1,0 +1,12 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# IDE and text editors
+.idea
+.vscode
+
+# Compiled Python files
+*.pyc
+__pycache__/
+.venv
