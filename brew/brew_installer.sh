@@ -20,11 +20,15 @@ echo "----- brew install packages -----"
 brew install nvim
 brew install tree
 brew install uv
+brew install gnupg
+brew install htop
 
 # Install cask apps
 echo "----- brew install cask apps -----"
 brew install --cask dbeaver-community
 brew install --cask docker
+brew install --cask zed
+
 
 # Remove old versions of installed software and outdated download caches
 echo "----- brew cleanup -----"
