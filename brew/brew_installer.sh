@@ -23,6 +23,7 @@ brew install uv
 brew install gnupg
 brew install htop
 brew install yt-dlp
+brew install ffmpeg
 
 # Install cask apps
 echo "----- brew install cask apps -----"
