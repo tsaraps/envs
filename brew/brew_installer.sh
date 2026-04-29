@@ -24,6 +24,7 @@ brew install gnupg
 brew install htop
 brew install yt-dlp
 brew install ffmpeg
+brew install deno
 
 # Install cask apps
 echo "----- brew install cask apps -----"
