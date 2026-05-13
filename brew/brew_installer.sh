@@ -31,6 +31,7 @@ echo "----- brew install cask apps -----"
 brew install --cask dbeaver-community
 brew install --cask docker
 brew install --cask zed
+brew install --cask ghostty
 
 
 # Remove old versions of installed software and outdated download caches
