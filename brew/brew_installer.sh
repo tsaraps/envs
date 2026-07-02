@@ -24,6 +24,9 @@ brew install uv
 brew install gnupg
 brew install git
 brew install htop
+brew install yt-dlp
+brew install ffmpeg
+brew install deno
 brew install telnet
 
 
