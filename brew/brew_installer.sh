@@ -17,17 +17,22 @@ brew upgrade
 
 # Install brew packages
 echo "----- brew install packages -----"
+brew install lazygit
 brew install nvim
 brew install tree
 brew install uv
 brew install gnupg
+brew install git
 brew install htop
+brew install telnet
+
 
 # Install cask apps
 echo "----- brew install cask apps -----"
 brew install --cask dbeaver-community
 brew install --cask docker
-brew install --cask zed
+brew install --cask ghostty
+brew install --cask pycharm
 
 
 # Remove old versions of installed software and outdated download caches
